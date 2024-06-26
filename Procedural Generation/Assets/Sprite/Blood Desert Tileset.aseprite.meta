@@ -1362,26 +1362,6 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
-  - name: Blood Desert Tileset_00
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 84
-      y: 210
-      width: 16
-      height: 16
-    spriteID: 4bd672391a114fd45978442097f4db9b
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 0, y: 0}
   - name: Blood Desert Tileset_62
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5054,6 +5034,26 @@ ScriptedImporter:
       width: 16
       height: 16
     spriteID: 58648925caf9c0b4f9781ad67da3e3b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Blood Desert Tileset_00
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 210
+      width: 16
+      height: 16
+    spriteID: 548ab974b65db01439b9a35449ba2dd5
     spriteBone: []
     spriteOutline: []
     vertices: []
